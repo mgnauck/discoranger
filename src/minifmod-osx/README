@@ -1,0 +1,8 @@
+ 
+ 0. look the tool dir, lib/Makefile and the Makefile
+ 1. tool/eff 'racers - green flag.xm'
+ 2. mv xmeffects.h lib
+ 3. make PLATFORM=[W32|LNX|MACOSX], default is MACOSX
+ 4. enjoy it :-)
+ 
+ Pontscho / fresh!mindworkz
